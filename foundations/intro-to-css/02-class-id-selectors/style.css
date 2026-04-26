@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.pink {
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}   
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.purple {
+    font-size: 24px;
+}
+#four{
+    background-color: rgba(0, 255, 0, 0.3);
+    font-size: 24px;
+    font-weight: bold;
+}
